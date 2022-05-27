@@ -1,3 +1,3 @@
 FROM scratch
-COPY hi /
-CMD ["/hi"]
+COPY hello /
+CMD ["/hello"]
